@@ -7,3 +7,6 @@ char *p = (char *) malloc(len+1);
 while((*src++=*StrCpy++)!='\0');
 return p;
 }
+/*/*/*/*
+B20032421姚润华
+/*/*/*/*
